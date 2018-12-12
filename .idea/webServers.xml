@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9057b11b-8b2e-47ad-a9ea-d7da8de8c7a9" name="droplet server" url="http://188.166.24.201">
+        <fileTransfer host="188.166.24.201" port="22" rootFolder="/home/jelle/huddle-chat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
